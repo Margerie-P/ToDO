@@ -1,0 +1,52 @@
+.tableau{
+    width: 100% !important;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px  solid rgb(214, 214, 214) ;
+    color: rgb(60, 145, 227);
+    font-weight: lighter;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+.tableauContent{
+   
+    padding: 15px;
+}
+.minHeight{
+    min-height: 600px;
+    border-right:1px solid rgb(214, 214, 214) ;
+    border-left:1px solid rgb(214, 214, 214)  ;
+}
+.p-none{
+    padding: 0 !important;
+}
+.bg{
+    background-color: rgb(60, 145, 227);
+}
+.bg-blanc{
+    background-color: rgb(245, 245, 245);
+}
+.color-white{
+    color: white;
+}
+.title{
+    display: inline-block;
+}
+.logo{
+    width: 100px;
+
+}
+a{
+    text-decoration: none !important;
+    text-transform: none !important;
+    margin: 10px;
+    color: white !important;
+}
+.btn-blue{
+    background-color: rgb(60, 145, 227);
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+    border-radius: 5px;
+}
